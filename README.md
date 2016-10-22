@@ -1,11 +1,11 @@
 # React.js HandsOn #3
 
-ハンズオンのベースになるリポジトリです。このコードを修正していきます。
+ハンズオンの答え
 
 ## Run
 
 ```
-$ git clone https://github.com/mokumoku-temple/react-handson_vol03
+$ git clone https://github.com/mokumoku-temple/react-handson_vol03-final
 $ npm install
 $ npm start
 ```
@@ -13,6 +13,7 @@ $ npm start
 ## Stack
 
 * React
+* React Router
 * Material-ui
 * Webpack
 * StyleLoader
